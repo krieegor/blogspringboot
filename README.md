@@ -15,10 +15,11 @@ O Objetivo da aplicação é conseguir cadastrar e visualizar posts / noticias /
 - Bootstrap
 - Postgres
 
-### Observações adicionais:
+### Créditos da aplicação:
 Projeto originalmente desenvolvido através dos ensinamentos obtidos no curso ministrado por Michelli Brito em seu canal no youtube.
 
 [Acesse o canal](https://www.youtube.com/playlist?list=PL8iIphQOyG-AdKMQWtt1bqdVm8QUnX7_S)
+(Muito bom o conteúdo! :))
 
 ## Imagens da aplicação:
 ![Screenshot](https://i.imgur.com/a2e55ZQ.jpg)
