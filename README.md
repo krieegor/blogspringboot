@@ -11,7 +11,7 @@ O Objetivo da aplicação é conseguir cadastrar e visualizar posts / noticias /
 - Springboot
 - Spring MVC (Padrão de Projeto)
 - Spring Security
-- Thumeleaf (para renderizar as páginas HTML)
+- Thymeleaf (para renderizar as páginas HTML)
 - Bootstrap
 - Postgres
 
